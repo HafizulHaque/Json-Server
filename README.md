@@ -1,3 +1,3 @@
 # A Fake JSON Server
 ***
-* Can be accessible at endpoint: __[my-json-server.typicode.com/HafizulHaque/Json-Server/users](my-json-server.typicode.com/HafizulHaque/Json-Server/users)__ *
+_Can be accessible at endpoint: **[my-json-server.typicode.com/HafizulHaque/Json-Server/users](my-json-server.typicode.com/HafizulHaque/Json-Server/users)** _
